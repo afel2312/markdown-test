@@ -55,3 +55,6 @@ console.log('hello word');
 <!-- GITHUB MARKDOWN  -->
 
 * [x] TASK 1 
+* [ ] Task 2 
+
+@afel2312 😄 👍
